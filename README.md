@@ -44,9 +44,10 @@
                 </td>
             </tr>  
             <tr>
-                <td rowspan="1">
-                 <tr>
-                <td>Name:</td>
+                <td rowspan="1"></td>
+            </tr>                
+            <tr>
+                <td Name:</td>
                 <td><input type="text" name="name"></td>
             </tr>  
             <tr>
@@ -54,7 +55,7 @@
                 <td><input type="email" name="email"></td>
             </tr>
             <tr>
-                <tdAddress:</td>
+                <td>Address:</td>
                 <td><input type="text" name="address"></td>
             </tr>
             <tr>
